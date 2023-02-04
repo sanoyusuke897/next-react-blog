@@ -7,6 +7,9 @@ import { TwoColumn, TwoColumnMain, TwoColumnSidebar } from 'components/two-colum
 import Accordion from 'components/accordion'
 import Image from 'next/image'
 import eyecatch from 'images/about.jpeg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLink } from '@fortawesome/free-solid-svg-icons'
+import Link from 'next/link'
 
 export default function About() {
     return (
@@ -39,6 +42,7 @@ export default function About() {
                             <h2>佐野 祐介　Sano Yusuke</h2>
 
                         <p>
+                        <a target="_blank" href="https://twitter.com/Tippy_uscpa" rel="noreferrer">@ちっぴー</a><br></br>
                             中国生まれのWebエンジニア（フロントエンド、バックエンド）、Webデザイナーです。
                         </p>
 
