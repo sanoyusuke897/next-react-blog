@@ -14,7 +14,7 @@ export default function Home({ posts }) {
   return (
     <Container>
       <Meta />
-  <Hero title="SANO YUSUKE" subtitle="A web engineer and designer." imageOn/>
+  <Hero title="SANO YUSUKE" subtitle="A web engineer and designer.test" imageOn/>
 
   <Posts posts={posts} />
   <Pagination nextUrl='/blog' nextText='More Posts' />
