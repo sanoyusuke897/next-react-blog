@@ -52,7 +52,7 @@ export default function About() {
                         <p>
                            React.js / Next.js（本サイトが採用しております）<br></br>
                            Vue.js / Nuxt.js<br></br>
-                           PHP / Laravel / SQL<br></br>
+                           PHP / Laravel / WordPress / SQL<br></br>
                            Linux / Nginx / Node.js / AWS<br></br>
                            Adobe Photoshop / Illustrator / Adobe XD / Figma<br></br>
                         </p>
